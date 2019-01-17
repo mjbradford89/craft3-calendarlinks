@@ -1,5 +1,5 @@
 {
-    "name": "superbig/craft3-calendarlinks",
+    "name": "mjbradford89/craft3-calendarlinks",
     "description": "Generate add to calendar links for Google, iCal and other calendar systems",
     "type": "craft-plugin",
     "version": "1.0.0",
