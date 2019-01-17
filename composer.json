@@ -2,7 +2,7 @@
     "name": "mjbradford89/craft3-calendarlinks",
     "description": "Generate add to calendar links for Google, iCal and other calendar systems",
     "type": "craft-plugin",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "keywords": [
         "craft",
         "cms",
